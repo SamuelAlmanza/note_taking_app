@@ -1,6 +1,7 @@
 # Note Taking CRUD App
 ## Create, Read, Update, Delete app made with Python, SQL, and Tkinter
-##DEMO
+
+# DEMO 
 
 ![grab-landing-page](https://github.com/SamuelAlmanza/note_taking_app/blob/master/NotesCRUD.gif)
 
