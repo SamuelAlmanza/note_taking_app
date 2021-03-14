@@ -15,5 +15,7 @@ conn = mysql.connector.connect(
 )
 
 CREDIT:
+
 Project based on Effiong Charles' Note Taking App Tutorial 
+
 https://levelup.gitconnected.com/build-a-note-taking-app-with-mysql-backend-in-python-927b4c5fad91
