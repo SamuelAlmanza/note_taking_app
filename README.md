@@ -1,5 +1,5 @@
 # Note Taking CRUD App
-This app allows you to create, read, update, and delete using SQL queries. 
+This app allows you to create, read, update, and delete using SQL queries.
 The program was written using Python and SQL with Tkinter for the UI.
 
 # DEMO 
