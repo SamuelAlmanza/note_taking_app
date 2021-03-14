@@ -1,6 +1,5 @@
 # Note Taking CRUD App
-This app allows you to create, read, update, and delete using SQL queries.
-The program was written using Python and SQL with Tkinter for the UI.
+This note taking program was written using Python, Tkinter for the UI, and SQL queries to communicate with the MySQL database. I created this app to practice writing CRUD applications using a SQL database.
 
 # DEMO 
 
