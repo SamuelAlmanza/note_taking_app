@@ -4,9 +4,9 @@
 To start the app:
 1. Install from requirements.txt 
 2. Run your mysql server 
-3. Update your server information in the source code 
+3. Update your server information in the source code:
 
-# DATABASE FUNCTIONS STARTS
+DATABASE FUNCTIONS STARTS
 conn = mysql.connector.connect(
   host="localhost",
   port=3306,
