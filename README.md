@@ -1,5 +1,5 @@
-# Note Taking App 
-## Note taking CRUD app made with Python, SQL, and Tkinter
+# Note Taking CRUD App
+## Created, Read, Update, Delete app made with Python, SQL, and Tkinter
 
 To start the app:
 1. Install from requirements.txt 
